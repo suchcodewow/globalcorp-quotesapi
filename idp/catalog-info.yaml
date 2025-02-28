@@ -16,7 +16,7 @@ kind: Component
 metadata:
   name: quotesapi
   description: |
-    My Example service which has something to do with APIs and database.
+    Main service for storing new customer quotes for home and auto.
   links:
     - title: Website
       url: http://harness.io
