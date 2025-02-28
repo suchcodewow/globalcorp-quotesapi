@@ -30,6 +30,3 @@ spec:
   type: service
   owner: quotesapiowner
   lifecycle: experimental
-#  system: yournamehere-system
-#  dependsOn:
-#    - component:default/yournamehere-service
