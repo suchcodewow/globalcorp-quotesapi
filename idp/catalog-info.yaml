@@ -14,7 +14,7 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: catalogapi
+  name: quotesapi
   description: |
     My Example service which has something to do with APIs and database.
   links:
